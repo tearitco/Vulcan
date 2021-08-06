@@ -1,4 +1,4 @@
-# Vulcan
+# TBRT.Vulcan BY TEARIT
 ![[vulcanlogo](https://http://riscv.org/)](vulcan_logo.png)
 RISC-V Instruction Set Simulator Built For Education.
 
